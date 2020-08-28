@@ -1,2 +1,2 @@
-pip install pytest 
-pip install pytest-cov
+/home/circleci/repo/venv/bin/python3 -m pip install pytest 
+/home/circleci/repo/venv/bin/python3 -m pip install pytest-cov
